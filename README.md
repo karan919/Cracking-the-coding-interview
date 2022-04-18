@@ -2,6 +2,6 @@
 
 1.1 Find if a string has unique characters?
 
-Sol: 
+[Solution](https://gist.github.com/karan919/ecfbbea097aeb73840a28f6aeed92ef2)
 
 [Reference](https://www.freecodecamp.org/news/javascript-hash-table-associative-array-hashing-in-js/#:~:text=You%20can%20implement%20a%20Hash,value%20pairs%20from%20the%20table)
