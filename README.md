@@ -5,3 +5,5 @@
 1.2 Check permutation of two string --- [Solution](https://gist.github.com/karan919/6783e41950ecf7d0d44b6c9973d6dcc7)
 
 1.3 URLify --- [Solution](https://gist.github.com/karan919/b32eada086c615a9413c9ab682b84f54)
+
+1.4 PalindromePermutation --- [Solution](https://gist.github.com/karan919/3b0cac360e2666ec74a61c39c39bd2bb)
