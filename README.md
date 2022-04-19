@@ -9,3 +9,5 @@
 1.4 PalindromePermutation --- [Solution](https://gist.github.com/karan919/3b0cac360e2666ec74a61c39c39bd2bb)
 
 1.5 OneAway --- [Solution](https://gist.github.com/karan919/66a9d6c008b830e9725f1c00b3b233e2)
+
+1.6 String Compression --- [Solution](https://gist.github.com/karan919/c94a74407598d54983793c217639e853)
