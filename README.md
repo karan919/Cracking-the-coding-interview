@@ -7,3 +7,5 @@
 1.3 URLify --- [Solution](https://gist.github.com/karan919/b32eada086c615a9413c9ab682b84f54)
 
 1.4 PalindromePermutation --- [Solution](https://gist.github.com/karan919/3b0cac360e2666ec74a61c39c39bd2bb)
+
+1.5 OneAway --- [Solution](https://gist.github.com/karan919/66a9d6c008b830e9725f1c00b3b233e2)
