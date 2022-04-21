@@ -15,3 +15,5 @@
 1.7 Wrong Answer
 
 1.8 Zero Matrix --- [Solution](https://gist.github.com/karan919/a58ce9f0998ba5c35e60b07da1f26786)
+
+1.9 String Roatation --- [Solution](https://gist.github.com/karan919/3d08a31abea7671a8de16bc366addff9)
