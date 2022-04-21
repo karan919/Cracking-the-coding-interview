@@ -11,3 +11,7 @@
 1.5 OneAway --- [Solution](https://gist.github.com/karan919/66a9d6c008b830e9725f1c00b3b233e2)
 
 1.6 String Compression --- [Solution](https://gist.github.com/karan919/c94a74407598d54983793c217639e853)
+
+1.7 Wrong Answer
+
+1.8 Zero Matrix --- [Solution](https://gist.github.com/karan919/a58ce9f0998ba5c35e60b07da1f26786)
